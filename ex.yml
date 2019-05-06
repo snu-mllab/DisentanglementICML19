@@ -1,0 +1,93 @@
+name: tf1.4_gpu
+channels:
+- defaults
+dependencies:
+- ca-certificates=2017.08.26=h1d4fec5_0
+- certifi=2017.7.27.1=py35h19f42a1_0
+- libedit=3.1=heed3624_0
+- libffi=3.2.1=hd88cf55_4
+- libgcc-ng=7.2.0=h7cc24e2_2
+- libstdcxx-ng=7.2.0=h7a57d05_2
+- ncurses=6.0=h9df7e31_2
+- openssl=1.0.2m=h26d622b_1
+- pip=9.0.1=py35h7e7da9d_4
+- python=3.5.4=h56e0582_23
+- readline=7.0=ha6073c6_4
+- setuptools=36.5.0=py35ha8c1747_0
+- sqlite=3.20.1=hb898158_2
+- tk=8.6.7=hc745277_3
+- wheel=0.29.0=py35h601ca99_1
+- xz=5.2.3=h55aa19d_2
+- zlib=1.2.11=ha838bed_2
+- pip:
+  - bleach==1.5.0
+  - chardet==3.0.4
+  - cycler==0.10.0
+  - cython==0.27.3
+  - decorator==4.1.2
+  - entrypoints==0.2.3
+  - enum34==1.1.6
+  - h5py==2.7.1
+  - html5lib==0.9999999
+  - idna==2.6
+  - ipykernel==4.6.1
+  - ipython==6.2.1
+  - ipython-genutils==0.2.0
+  - ipywidgets==7.0.5
+  - jedi==0.11.0
+  - jinja2==2.10
+  - jsonschema==2.6.0
+  - jupyter==1.0.0
+  - jupyter-client==5.1.0
+  - jupyter-console==5.2.0
+  - jupyter-core==4.4.0
+  - markdown==2.6.9
+  - markupsafe==1.0
+  - matplotlib==2.1.0
+  - mistune==0.8.1
+  - munkres==1.0.12
+  - nbconvert==5.3.1
+  - nbformat==4.4.0
+  - networkx==2.0
+  - notebook==5.2.1
+  - numpy==1.13.3
+  - opencv-python==3.4.0.12
+  - ortools==6.6.4656
+  - pandas==0.21.0
+  - pandocfilters==1.4.2
+  - parso==0.1.0
+  - path.py==11.1.0
+  - pexpect==4.3.0
+  - pickleshare==0.7.4
+  - pillow==5.0.0
+  - prompt-toolkit==1.0.15
+  - protobuf==3.5.1
+  - psutil==5.4.3
+  - ptyprocess==0.5.2
+  - pygco==0.0.1
+  - pygments==2.2.0
+  - pyparsing==2.2.0
+  - python-dateutil==2.6.1
+  - pytz==2017.3
+  - pywavelets==0.5.2
+  - pyzmq==16.0.3
+  - qtconsole==4.3.1
+  - requests==2.18.4
+  - scikit-image==0.13.1
+  - scikit-learn==0.19.1
+  - scipy==1.0.0
+  - simplegeneric==0.8.1
+  - six==1.11.0
+  - tensorflow-gpu==1.4.0
+  - tensorflow-tensorboard==0.4.0rc3
+  - terminado==0.7
+  - testpath==0.3.1
+  - tornado==4.5.2
+  - tqdm==4.19.4
+  - traitlets==4.3.2
+  - urllib3==1.22
+  - wcwidth==0.1.7
+  - werkzeug==0.12.2
+  - widgetsnbextension==3.0.8
+prefix: /home/maestro/anaconda3/envs/tf1.4_gpu
+
