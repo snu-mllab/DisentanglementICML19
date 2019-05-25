@@ -8,7 +8,7 @@
 
 ## Citing this work
 ```
-@inproceedings{jeongSong,
+@inproceedings{jeongICML19,
     title={
         Learning Discrete and Continuous Factors of Data via Alternating Disentanglement
     },
