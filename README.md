@@ -1,4 +1,7 @@
 # Learning Discrete and Continuous Factors of Data via Alternating Disentanglement
+## Demo
+[![](http://img.youtube.com/vi/pRsD0Ot26gw/0.jpg)](http://www.youtube.com/watch?v=pRsD0Ot26gw "Learning Discrete and Continuous Factors of Data via Alternating Disentanglement")
+
 ## Dependency
 - python=3.5
 - tensorflow version = 1.4
