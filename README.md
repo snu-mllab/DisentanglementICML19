@@ -33,5 +33,9 @@
 - Dsprites_exp/CascadeVAE/main.py
 - Dsprites_exp/CascadeVAE-C/main.py
 
+## Trained model
+Download from [here](https://drive.google.com/a/mllab.snu.ac.kr/file/d/1GTP2uUCJVaU3nXG1Tk2G-BFiTUlCM5k2/view?usp=drivesdk).
+Here are trained models from 10 different random seeds. 
+
 ## License
 MIT License 
